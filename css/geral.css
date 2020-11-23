@@ -27,3 +27,6 @@
     background-color: var(--gray-dark);
   }
   
+  .center{
+    margin:0 auto;
+  }

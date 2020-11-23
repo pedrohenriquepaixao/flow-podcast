@@ -135,3 +135,28 @@
   border: 2px solid var(--warning);
   padding: 10px 30px;
 }
+
+/*BTN VAZADO*/
+
+.social-media-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+
+.social-media-list .itens {
+  border: 1px solid var(--warning);
+  padding: 10px 40px;
+  border-radius: 10px;
+  margin: 10px;
+  font-weight: bold;
+  font-size: 16px;
+  text-transform: uppercase;
+  transition: transform 0.3s ease-in-out;
+}
+
+.animation-warning:hover {
+  background-color: var(--warning);
+  transform: scale(1.1);
+}
