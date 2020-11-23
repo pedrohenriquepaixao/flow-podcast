@@ -31,7 +31,7 @@
 ### Paginas
 
 - [x] Pagina inicial
-- [ ] Episódios
+- [x] Episódios
 - [ ] Contato
 - [ ] Membros
 
