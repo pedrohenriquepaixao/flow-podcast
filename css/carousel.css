@@ -1,0 +1,32 @@
+/* BANNER CAROUSEL */
+
+.carousel-flow-landing {
+    width: 100%;
+    padding: 15px 40px;
+  }
+  
+  .carousel-flow-landing:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    margin: 0 auto;
+    background-color: var(--white-color);
+  }
+  
+  .img-carousel {
+    background-image: url(../img/especial_2_anos.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 260px;
+    margin-top: 110px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 5px;
+    animation: slidein 10s ease-in-out infinite;
+    transition: ease-in-out;
+  }
+
+  
+  

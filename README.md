@@ -60,6 +60,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Pedro Henrique</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
 
-Feito por Pedro Henrique 👋🏽 Segue Ai :D
+Feito por Pedro Henrique 👋🏽 Adiciona lá :D
 
-[![Linkedin Badge](https://img.shields.io/github/followers/pedrohenriquepaixao?styletecnologias=social)](https://www.linkedin.com/in/pedro-henrique-fullstack/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/pedro-henrique-fullstack/)

@@ -1,0 +1,135 @@
+.chamada {
+  width: 80%;
+  padding: 30px 0px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.chamada p {
+  text-align: center;
+  color: var(--white-color);
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 1.9px;
+  line-height: 25px;
+}
+
+.time {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.time h2 {
+  color: var(--white-color);
+  font-size: 40px;
+  font-weight: bolder;
+  letter-spacing: 10px;
+  padding: 10px 0;
+}
+
+.time p {
+  color: var(--gray-ligh);
+  padding: 10px 0;
+}
+
+.time strong {
+  color: var(--white-color);
+  font-size: 20px;
+  letter-spacing: 5px;
+  padding: 10px 0 20px 0;
+}
+
+.social-media-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+.social-media-list .itens {
+  border: 1px solid var(--warning);
+  padding: 10px 40px;
+  border-radius: 10px;
+  margin: 10px;
+  font-weight: bold;
+  font-size: 16px;
+  text-transform: uppercase;
+  transition: transform 0.3s ease-in-out;
+}
+
+.animation-Red:hover {
+  background-color: #f04732;
+  transform: scale(1.1);
+}
+.animation-Roxo:hover {
+  background-color: #806fe8;
+  transform: scale(1.1);
+}
+.animation-Blue:hover {
+  background-color: #176fe5;
+  transform: scale(1.1);
+}
+
+.animation-warning:hover {
+  background-color: var(--warning);
+  transform: scale(1.1);
+}
+
+.center {
+  margin: 0 auto;
+}
+
+/* BUTTONS SOCIAL MEDIA SVG */
+
+.social-media-buttons {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: space-between;
+  margin: 40px 0px;
+}
+
+.social-media-buttons .icon {
+  background-color: var(--black);
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: transform 0.4s;
+}
+
+.social-media-buttons .icon:hover {
+  transform: scale(1.2);
+}
+
+.social-media-buttons .icon:nth-child(1):hover svg {
+  fill: red;
+}
+.social-media-buttons .icon:nth-child(2):hover svg {
+  fill: blue;
+}
+.social-media-buttons .icon:nth-child(3):hover svg {
+  fill: #5cba55;
+}
+.social-media-buttons .icon:nth-child(4):hover svg {
+  fill: #f79931;
+}
+.social-media-buttons .icon:nth-child(5):hover svg {
+  fill: #a5a5a5;
+}
+.social-media-buttons .icon:nth-child(6):hover svg {
+  fill: #7289da;
+}
+.social-media-buttons .icon:nth-child(7):hover svg {
+  fill: #f1a02f;
+}
+
+.time span {
+  color: var(--gray-ligh);
+}

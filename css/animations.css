@@ -1,0 +1,37 @@
+/* ANIMATION */
+@keyframes slidein {
+  0% {
+    background-image: url(../img/especial_2_anos.jpg);
+    animation-delay: 2s;
+  }
+  25% {
+    background-image: url(../img/caue.jpg);
+    animation-delay: 5s;
+  }
+  50% {
+    background-image: url(../img/dia_dos_pais.jpg);
+    animation-delay: 5s;
+  }
+  100% {
+    background-image: url(../img/especial_2_anos.jpg);
+    animation-delay: 2s;
+  }
+}
+
+@keyframes pop-up {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
